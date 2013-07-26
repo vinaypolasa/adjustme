@@ -11,3 +11,5 @@ $( "#container" ).adjustme({
     
   dynamiccolor:true  // It will add dynamic colors to your independent divs.... and it is options.
   
+  Call without option...
+  $( "#container" ).adjustme();
